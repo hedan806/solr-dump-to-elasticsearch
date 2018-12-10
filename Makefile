@@ -5,7 +5,7 @@ GOBUILD=$(GOCMD) build
 GOCLEAN=$(GOCMD) clean
 GOTEST=$(GOCMD) test
 GOGET=$(GOCMD) get
-BINARY_NAME=solrdumptoes
+BINARY_NAME=solrdump2es
 BINARY_UNIX=$(BINARY_NAME)_unix
 
 # Cross compilation
